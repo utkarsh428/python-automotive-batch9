@@ -11,6 +11,7 @@ cart_prices = []
 print("Available Products:")
 for i in range(len(products)):
     print(i, "-", products[i], "₹", prices[i])
+    
 
 # Loop to add products to cart
 while True:

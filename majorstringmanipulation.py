@@ -1,4 +1,4 @@
-#strin formatting 
+#string formatting 
 name = "Python"
 version = 3
 print("Language: %s, Version: %s" % (name, version))
