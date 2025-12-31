@@ -32,11 +32,14 @@ class ParticipationQueue(Student):
 
 
 # List of student IDs
-student_list = ['std_001', 'std_002', 'std_003', 'std_004']
+student_list = [ 'std_001', 'std_002', 'std_003',
+                 'std_004','std_005','std_006',
+                 'std_007','std_008','std_009',
+                 'std_010' ]
 
 # Process each student one by one
-for sid in student_list:
-    student = ParticipationQueue(sid)
+for i in student_list:
+    student = ParticipationQueue(i)
     print("Processed:", student.apply_logic())
 
 # Show final queues
