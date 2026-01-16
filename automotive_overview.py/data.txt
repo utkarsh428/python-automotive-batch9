@@ -1,0 +1,5 @@
+car_name=Hyundai Verna
+mileage=15
+fuel_type=Petrol
+fuel_consumption=4.8
+engine=1497cc
