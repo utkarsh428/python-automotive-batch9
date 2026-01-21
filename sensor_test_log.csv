@@ -1,0 +1,7 @@
+Timestamp,Sensor,Value,Result,ECU Reaction
+2026-01-20 12:11:04.414461,speed,60.0,PASS,ECU operates normally
+2026-01-20 12:11:27.196537,temperature,100.0,PASS,ECU operates normally
+2026-01-20 12:11:40.553387,pressure,99.0,PASS,ECU operates normally
+2026-01-20 12:11:53.443472,speed,180.0,PASS,ECU operates normally
+2026-01-20 12:12:04.443223,temperature,200.0,FAIL,ECU enters safe mode / fault state
+2026-01-20 12:12:18.047664,speed,250.0,FAIL,ECU enters safe mode / fault state
